@@ -25,11 +25,22 @@ source-repository head
 
 library
   exposed-modules:
+      App.Env
+      App.Error
+      CLI.Display
+      CLI.Prompt
+      CLI.Repl
+      CLI.User.Auth
       DB.Connection
+      DB.Migration
       DB.Schema
       Models.Book
       Models.BorrowRecord
       Models.User
+      Queries.Book
+      Queries.BorrowRecord
+      Queries.User
+      Services.Auth
   other-modules:
       Paths_haskell_opac
   autogen-modules:
