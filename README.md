@@ -28,9 +28,9 @@ Programming
 Contributors
 | Name | Role |
 | :---: | :---: | 
-| Masaharu | Project Lead |
-| Lester | Documentation Lead |
-| Kirk | Haskell Developer |
-| Kline | Haskell Developer |
-| Rashley | Database Engineer |
-| Sean | Database Engineer |
+| Masaharu Kayama | Project Lead |
+| Lester Manapul | Documentation Lead |
+| Kirk Vallete | Haskell Developer |
+| Kline Calaguas | Haskell Developer |
+| Rashley Serioza | Database Engineer |
+| Sean Ong | Database Engineer |
